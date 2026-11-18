@@ -1,0 +1,4 @@
+Partition,N,FA_OR_pct,FA_Qonly_pct
+healthy_train (used to FIT; in-sample),5688,20.34,0.0
+healthy_calib (used to set limits),1188,1.6,1.01
+healthy_holdout (honest estimate),1273,2.44,1.65

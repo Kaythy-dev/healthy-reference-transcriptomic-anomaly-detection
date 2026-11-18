@@ -1,0 +1,3 @@
+Group,N,FA_OR_pct,FA_OR_CI_lo,FA_OR_CI_hi,FA_Qonly_pct,FA_Q_CI_lo,FA_Q_CI_hi
+GTEx healthy (holdout),1161,2.07,1.39,3.06,1.72,1.12,2.65
+TCGA healthy (holdout),112,6.25,3.06,12.34,0.89,0.16,4.88

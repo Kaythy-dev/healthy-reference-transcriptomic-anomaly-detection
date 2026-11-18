@@ -1,0 +1,2 @@
+label,roc,pr,detect,false_alarm,detect_ci_lo,detect_ci_hi,fa_ci_lo,fa_ci_hi,tp,fp,tn,fn
+T2 OR Q,0.9520938005807238,0.9922861320562725,70.87744060221122,2.4351924587588356,69.9,71.83,1.72,3.44,6026,31,1242,2476

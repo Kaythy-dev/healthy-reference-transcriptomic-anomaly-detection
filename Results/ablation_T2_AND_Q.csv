@@ -1,0 +1,2 @@
+label,roc,pr,detect,false_alarm,detect_ci_lo,detect_ci_hi,fa_ci_lo,fa_ci_hi,tp,fp,tn,fn
+T2 AND Q,0.9441695988356699,0.9911228440804107,54.540108209832965,0.6284367635506672,53.48,55.6,0.32,1.24,4637,8,1265,3865
